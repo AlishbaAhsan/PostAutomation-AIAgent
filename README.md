@@ -46,7 +46,7 @@ This file contains the entire automation—ready to import into your own n8n ins
 
 1. **Clone this repo:**
     ```bash
-    git clone https://github.com/<your-username>/PostAutomation-AIAgent.git
+    git clone https://github.com/AlishbaAhsan/PostAutomation-AIAgent.git
     ```
 2. **Start n8n** on your system (locally or hosted).
     - [n8n installation guide](https://docs.n8n.io/hosting/installation/)
